@@ -1,0 +1,98 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800);
+
+
+
+div#main{
+  width: 960px;
+  margin: 0px auto;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body{
+  background: url("/images/bg-sand.png");
+}
+
+
+h1{
+  color: #c13832;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 84px;
+  font-weight: bold;
+  text-align: center;
+  color: red;
+  margin: 0px;
+  letter-spacing: -0.05em;
+}
+
+h2{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 55px;
+  text-align: center;
+  font-weight: normal;
+  margin: 0px;
+}
+
+
+nav a{
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+  color: #484848;
+  font-size: 12px;
+}
+
+nav a:hover{
+  text-decoration: underline;
+}
+
+nav li{
+  list-style-type: none;
+  display: inline-block;
+}
+
+nav ul{
+  float: right;
+}
+
+
+.clear{
+  clear: both;
+}
+
+.accordian{
+  text-align: center;
+}
+
+.accordian li{
+  list-style-type: none;
+  display: inline-block;
+
+}
+
+#lightbeam{
+  background-color: #241810;
+}
+
+#fox{
+  background-color: blue;
+}
+
+#addons{
+  background-color: orange;
+}
+
+#webmaker{
+  background-color: #949993;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+@import url(http://fonts.googleapis.com/css?family=Exo+2);
+@import url(http://fonts.googleapis.com/css?family=Engagement);
+
+
+header{
+  color : red;
+  border: 5px double green;
+}
+
+
+header h1{
+  margin-left: 20px;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 75px;
+}
+
+body{
+  background-color: lavender;
+  background: url(/images/tile.jpg);
+}
+
+p{
+  font-family: 'Engagement', cursive;
+  color: olive;
+  letter-spacing: 3px;
+  line-height: 25px;
+}
+
+a{
+  border: 1px solid blue;
+  text-decoration: none;
+  background-color: red;
+  color: yellow;
+  padding: 3px;
+  letter-spacing: 2px;
+  border-radius: 10px;
+}
+
+a:hover{
+background-color: yellow;
+color: red;
+}
+
+
+
+
+
