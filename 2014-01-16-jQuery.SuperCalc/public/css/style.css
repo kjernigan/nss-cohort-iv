@@ -1,0 +1,74 @@
+
+.number{
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #33ee00;
+  text-align: center;
+}
+
+.operator{
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #FFFF00;
+  width: 30px;
+  text-align: center;
+}
+
+#sum{
+  text-align: center;
+}
+
+#num8{
+  width: 30px;
+}
+
+#num7{
+  width: 30px;
+}
+
+#expon{
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #FFFF00;
+}
+
+#sum{
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #FFFF00;
+}
+
+#answer{
+  border: 2px solid black;
+  padding: 10px;
+  margin: 10px 10px 10px 20px;
+  width: 150px;
+}
+
+#queue{
+  border: 2px solid black;
+  padding: 10px;
+  width: 150px;
+  list-style-type: none;
+  margin: 10px 10px 10px 20px;
+}
+
+#clear{
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #FF0088;
+}
+
+#push{
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #FF0088;
+}
+
+#sign{
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #FFFF00;
+}
+
+
